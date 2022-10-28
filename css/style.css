@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+}
+
+#myApp{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
